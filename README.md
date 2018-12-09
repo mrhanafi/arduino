@@ -5,3 +5,8 @@ looks like 2nd git repo chances to success is near. I will try again. Good Luck
 nampak cam xbrape nk jadi. kite cube lagi tgk jadi macam mana.
 
 Testing 123 123 123 123 123 123 123
+
+get test file
+try to pull from remote rasp pi
+is it successful?
+can try or not?
