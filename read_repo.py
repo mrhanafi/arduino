@@ -6,7 +6,7 @@ COMMITS_TO_PRINT = 5
 def print_commit(commit):
 	print('----')
 	print(str(commit.hexsha))
-	print("\"{}\" byy {} ({})".format(commit.summary,
+	print("\"{}\" by {} ({})".format(commit.summary,
 					  commit.author.name,
 					  commit.author.email))
 	print(str(commit.authored_datetime))
